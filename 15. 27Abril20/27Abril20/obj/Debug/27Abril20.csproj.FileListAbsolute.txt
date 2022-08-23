@@ -1,0 +1,13 @@
+C:\Users\jorge\Music\27Abril20\27Abril20\obj\Debug\27Abril20.csprojAssemblyReference.cache
+C:\Users\jorge\Music\27Abril20\27Abril20\obj\Debug\_27Abril20.Form1.resources
+C:\Users\jorge\Music\27Abril20\27Abril20\obj\Debug\_27Abril20.Properties.Resources.resources
+C:\Users\jorge\Music\27Abril20\27Abril20\obj\Debug\27Abril20.csproj.GenerateResource.cache
+C:\Users\jorge\Music\27Abril20\27Abril20\obj\Debug\27Abril20.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Music\27Abril20\27Abril20\bin\Debug\27Abril20.exe.config
+C:\Users\jorge\Music\27Abril20\27Abril20\bin\Debug\27Abril20.exe
+C:\Users\jorge\Music\27Abril20\27Abril20\bin\Debug\27Abril20.pdb
+C:\Users\jorge\Music\27Abril20\27Abril20\bin\Debug\BibliotecaListas.dll
+C:\Users\jorge\Music\27Abril20\27Abril20\bin\Debug\BibliotecaListas.pdb
+C:\Users\jorge\Music\27Abril20\27Abril20\obj\Debug\27Abril20.csproj.CopyComplete
+C:\Users\jorge\Music\27Abril20\27Abril20\obj\Debug\27Abril20.exe
+C:\Users\jorge\Music\27Abril20\27Abril20\obj\Debug\27Abril20.pdb

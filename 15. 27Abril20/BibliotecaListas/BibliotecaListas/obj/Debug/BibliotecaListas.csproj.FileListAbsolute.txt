@@ -1,0 +1,12 @@
+C:\Users\jorge\Music\27Abril20\BibliotecaListas\BibliotecaListas\bin\Debug\BibliotecaListas.dll
+C:\Users\jorge\Music\27Abril20\BibliotecaListas\BibliotecaListas\bin\Debug\BibliotecaListas.pdb
+C:\Users\jorge\Music\27Abril20\BibliotecaListas\BibliotecaListas\obj\Debug\BibliotecaListas.csprojAssemblyReference.cache
+C:\Users\jorge\Music\27Abril20\BibliotecaListas\BibliotecaListas\obj\Debug\BibliotecaListas.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Music\27Abril20\BibliotecaListas\BibliotecaListas\obj\Debug\BibliotecaListas.dll
+C:\Users\jorge\Music\27Abril20\BibliotecaListas\BibliotecaListas\obj\Debug\BibliotecaListas.pdb
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\27Abril20\BibliotecaListas\BibliotecaListas\bin\Debug\BibliotecaListas.dll
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\27Abril20\BibliotecaListas\BibliotecaListas\bin\Debug\BibliotecaListas.pdb
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\27Abril20\BibliotecaListas\BibliotecaListas\obj\Debug\BibliotecaListas.csprojAssemblyReference.cache
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\27Abril20\BibliotecaListas\BibliotecaListas\obj\Debug\BibliotecaListas.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\27Abril20\BibliotecaListas\BibliotecaListas\obj\Debug\BibliotecaListas.dll
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\27Abril20\BibliotecaListas\BibliotecaListas\obj\Debug\BibliotecaListas.pdb
