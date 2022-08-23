@@ -1,0 +1,18 @@
+C:\Users\jorge\source\repos\29Enero20\bin\Debug\29Enero20.exe.config
+C:\Users\jorge\source\repos\29Enero20\bin\Debug\29Enero20.exe
+C:\Users\jorge\source\repos\29Enero20\bin\Debug\29Enero20.pdb
+C:\Users\jorge\source\repos\29Enero20\obj\Debug\29Enero20.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\29Enero20\obj\Debug\_29Enero20.Form1.resources
+C:\Users\jorge\source\repos\29Enero20\obj\Debug\_29Enero20.Properties.Resources.resources
+C:\Users\jorge\source\repos\29Enero20\obj\Debug\29Enero20.csproj.GenerateResource.cache
+C:\Users\jorge\source\repos\29Enero20\obj\Debug\29Enero20.exe
+C:\Users\jorge\source\repos\29Enero20\obj\Debug\29Enero20.pdb
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\29Enero20\bin\Debug\29Enero20.exe.config
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\29Enero20\bin\Debug\29Enero20.exe
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\29Enero20\bin\Debug\29Enero20.pdb
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\29Enero20\obj\Debug\29Enero20.csprojAssemblyReference.cache
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\29Enero20\obj\Debug\_29Enero20.Form1.resources
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\29Enero20\obj\Debug\_29Enero20.Properties.Resources.resources
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\29Enero20\obj\Debug\29Enero20.csproj.GenerateResource.cache
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\29Enero20\obj\Debug\29Enero20.exe
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\29Enero20\obj\Debug\29Enero20.pdb

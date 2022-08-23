@@ -1,0 +1,18 @@
+E:\Trabajos\12Febrero20\obj\Debug\12Febrero20.csprojAssemblyReference.cache
+E:\Trabajos\12Febrero20\obj\Debug\_12Febrero20.Properties.Resources.resources
+E:\Trabajos\12Febrero20\obj\Debug\12Febrero20.csproj.GenerateResource.cache
+E:\Trabajos\12Febrero20\obj\Debug\_12Febrero20.Form1.resources
+E:\Trabajos\12Febrero20\bin\Debug\12Febrero20.exe.config
+E:\Trabajos\12Febrero20\bin\Debug\12Febrero20.exe
+E:\Trabajos\12Febrero20\bin\Debug\12Febrero20.pdb
+E:\Trabajos\12Febrero20\obj\Debug\12Febrero20.exe
+E:\Trabajos\12Febrero20\obj\Debug\12Febrero20.pdb
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\12Febrero20\bin\Debug\12Febrero20.exe.config
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\12Febrero20\bin\Debug\12Febrero20.exe
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\12Febrero20\bin\Debug\12Febrero20.pdb
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\12Febrero20\obj\Debug\12Febrero20.csprojAssemblyReference.cache
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\12Febrero20\obj\Debug\_12Febrero20.Form1.resources
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\12Febrero20\obj\Debug\_12Febrero20.Properties.Resources.resources
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\12Febrero20\obj\Debug\12Febrero20.csproj.GenerateResource.cache
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\12Febrero20\obj\Debug\12Febrero20.exe
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\12Febrero20\obj\Debug\12Febrero20.pdb
