@@ -1,0 +1,10 @@
+E:\Trabajos\Editor de Texto\15Abril20\bin\Debug\15Abril20.exe.config
+E:\Trabajos\Editor de Texto\15Abril20\bin\Debug\15Abril20.exe
+E:\Trabajos\Editor de Texto\15Abril20\bin\Debug\15Abril20.pdb
+E:\Trabajos\Editor de Texto\15Abril20\obj\Debug\15Abril20.csprojAssemblyReference.cache
+E:\Trabajos\Editor de Texto\15Abril20\obj\Debug\_15Abril20.Form1.resources
+E:\Trabajos\Editor de Texto\15Abril20\obj\Debug\_15Abril20.Properties.Resources.resources
+E:\Trabajos\Editor de Texto\15Abril20\obj\Debug\15Abril20.csproj.GenerateResource.cache
+E:\Trabajos\Editor de Texto\15Abril20\obj\Debug\15Abril20.csproj.CoreCompileInputs.cache
+E:\Trabajos\Editor de Texto\15Abril20\obj\Debug\15Abril20.exe
+E:\Trabajos\Editor de Texto\15Abril20\obj\Debug\15Abril20.pdb

@@ -1,0 +1,10 @@
+E:\Trabajos\13Abril20\13Abril20\obj\Debug\13Abril20.csprojAssemblyReference.cache
+E:\Trabajos\13Abril20\13Abril20\obj\Debug\_13Abril20.frmPrincipal.resources
+E:\Trabajos\13Abril20\13Abril20\obj\Debug\_13Abril20.Properties.Resources.resources
+E:\Trabajos\13Abril20\13Abril20\obj\Debug\13Abril20.csproj.GenerateResource.cache
+E:\Trabajos\13Abril20\13Abril20\obj\Debug\13Abril20.csproj.CoreCompileInputs.cache
+E:\Trabajos\13Abril20\13Abril20\bin\Debug\13Abril20.exe.config
+E:\Trabajos\13Abril20\13Abril20\bin\Debug\13Abril20.exe
+E:\Trabajos\13Abril20\13Abril20\bin\Debug\13Abril20.pdb
+E:\Trabajos\13Abril20\13Abril20\obj\Debug\13Abril20.exe
+E:\Trabajos\13Abril20\13Abril20\obj\Debug\13Abril20.pdb

@@ -1,0 +1,9 @@
+D:\Morrow\Documents\DMC_Visual_Studio\EventosRatón\bin\Debug\EventosRatón.exe.config
+D:\Morrow\Documents\DMC_Visual_Studio\EventosRatón\bin\Debug\EventosRatón.exe
+D:\Morrow\Documents\DMC_Visual_Studio\EventosRatón\bin\Debug\EventosRatón.pdb
+D:\Morrow\Documents\DMC_Visual_Studio\EventosRatón\obj\Debug\EventosRatón.csprojAssemblyReference.cache
+D:\Morrow\Documents\DMC_Visual_Studio\EventosRatón\obj\Debug\EventosRatón.Form1.resources
+D:\Morrow\Documents\DMC_Visual_Studio\EventosRatón\obj\Debug\EventosRatón.Properties.Resources.resources
+D:\Morrow\Documents\DMC_Visual_Studio\EventosRatón\obj\Debug\EventosRatón.csproj.GenerateResource.cache
+D:\Morrow\Documents\DMC_Visual_Studio\EventosRatón\obj\Debug\EventosRatón.exe
+D:\Morrow\Documents\DMC_Visual_Studio\EventosRatón\obj\Debug\EventosRatón.pdb
