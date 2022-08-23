@@ -1,0 +1,10 @@
+C:\Users\jorge\Music\2Marzo20\Complejos\bin\Debug\Complejos.exe.config
+C:\Users\jorge\Music\2Marzo20\Complejos\bin\Debug\Complejos.exe
+C:\Users\jorge\Music\2Marzo20\Complejos\bin\Debug\Complejos.pdb
+C:\Users\jorge\Music\2Marzo20\Complejos\obj\Debug\Complejos.csprojAssemblyReference.cache
+C:\Users\jorge\Music\2Marzo20\Complejos\obj\Debug\Complejos.Form1.resources
+C:\Users\jorge\Music\2Marzo20\Complejos\obj\Debug\Complejos.Properties.Resources.resources
+C:\Users\jorge\Music\2Marzo20\Complejos\obj\Debug\Complejos.csproj.GenerateResource.cache
+C:\Users\jorge\Music\2Marzo20\Complejos\obj\Debug\Complejos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Music\2Marzo20\Complejos\obj\Debug\Complejos.exe
+C:\Users\jorge\Music\2Marzo20\Complejos\obj\Debug\Complejos.pdb

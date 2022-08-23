@@ -1,0 +1,10 @@
+C:\Users\jorge\Music\24Febrero20\24Febrero20\bin\Debug\24Febrero20.exe.config
+C:\Users\jorge\Music\24Febrero20\24Febrero20\bin\Debug\24Febrero20.exe
+C:\Users\jorge\Music\24Febrero20\24Febrero20\bin\Debug\24Febrero20.pdb
+C:\Users\jorge\Music\24Febrero20\24Febrero20\obj\Debug\Arreglo_Suma.csprojAssemblyReference.cache
+C:\Users\jorge\Music\24Febrero20\24Febrero20\obj\Debug\_24Febrero20.Form1.resources
+C:\Users\jorge\Music\24Febrero20\24Febrero20\obj\Debug\_24Febrero20.Properties.Resources.resources
+C:\Users\jorge\Music\24Febrero20\24Febrero20\obj\Debug\Arreglo_Suma.csproj.GenerateResource.cache
+C:\Users\jorge\Music\24Febrero20\24Febrero20\obj\Debug\Arreglo_Suma.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Music\24Febrero20\24Febrero20\obj\Debug\24Febrero20.exe
+C:\Users\jorge\Music\24Febrero20\24Febrero20\obj\Debug\24Febrero20.pdb

@@ -1,0 +1,10 @@
+C:\Users\jorge\Music\24Febrero20\Arreglos_Vectores\bin\Debug\Arreglos_Vectores.exe.config
+C:\Users\jorge\Music\24Febrero20\Arreglos_Vectores\bin\Debug\Arreglos_Vectores.exe
+C:\Users\jorge\Music\24Febrero20\Arreglos_Vectores\bin\Debug\Arreglos_Vectores.pdb
+C:\Users\jorge\Music\24Febrero20\Arreglos_Vectores\obj\Debug\Arreglos_Vectores.csprojAssemblyReference.cache
+C:\Users\jorge\Music\24Febrero20\Arreglos_Vectores\obj\Debug\Arreglos_Vectores.Form1.resources
+C:\Users\jorge\Music\24Febrero20\Arreglos_Vectores\obj\Debug\Arreglos_Vectores.Properties.Resources.resources
+C:\Users\jorge\Music\24Febrero20\Arreglos_Vectores\obj\Debug\Arreglos_Vectores.csproj.GenerateResource.cache
+C:\Users\jorge\Music\24Febrero20\Arreglos_Vectores\obj\Debug\Arreglos_Vectores.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Music\24Febrero20\Arreglos_Vectores\obj\Debug\Arreglos_Vectores.exe
+C:\Users\jorge\Music\24Febrero20\Arreglos_Vectores\obj\Debug\Arreglos_Vectores.pdb

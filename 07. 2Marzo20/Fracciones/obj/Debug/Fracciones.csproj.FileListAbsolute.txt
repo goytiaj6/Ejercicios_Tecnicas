@@ -1,0 +1,10 @@
+C:\Users\jorge\Music\2Marzo20\Fracciones\bin\Debug\Fracciones.exe.config
+C:\Users\jorge\Music\2Marzo20\Fracciones\bin\Debug\Fracciones.exe
+C:\Users\jorge\Music\2Marzo20\Fracciones\bin\Debug\Fracciones.pdb
+C:\Users\jorge\Music\2Marzo20\Fracciones\obj\Debug\Fracciones.csprojAssemblyReference.cache
+C:\Users\jorge\Music\2Marzo20\Fracciones\obj\Debug\Fracciones.Form1.resources
+C:\Users\jorge\Music\2Marzo20\Fracciones\obj\Debug\Fracciones.Properties.Resources.resources
+C:\Users\jorge\Music\2Marzo20\Fracciones\obj\Debug\Fracciones.csproj.GenerateResource.cache
+C:\Users\jorge\Music\2Marzo20\Fracciones\obj\Debug\Fracciones.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Music\2Marzo20\Fracciones\obj\Debug\Fracciones.exe
+C:\Users\jorge\Music\2Marzo20\Fracciones\obj\Debug\Fracciones.pdb
