@@ -1,0 +1,18 @@
+E:\Trabajos\Herencia_Animal\bin\Debug\Herencia_Animal.exe.config
+E:\Trabajos\Herencia_Animal\bin\Debug\Herencia_Animal.exe
+E:\Trabajos\Herencia_Animal\bin\Debug\Herencia_Animal.pdb
+E:\Trabajos\Herencia_Animal\obj\Debug\Herencia_Animal.csprojAssemblyReference.cache
+E:\Trabajos\Herencia_Animal\obj\Debug\Herencia_Animal.Form1.resources
+E:\Trabajos\Herencia_Animal\obj\Debug\Herencia_Animal.Properties.Resources.resources
+E:\Trabajos\Herencia_Animal\obj\Debug\Herencia_Animal.csproj.GenerateResource.cache
+E:\Trabajos\Herencia_Animal\obj\Debug\Herencia_Animal.exe
+E:\Trabajos\Herencia_Animal\obj\Debug\Herencia_Animal.pdb
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\17Febrero20\Herencia_Animal\bin\Debug\Herencia_Animal.exe.config
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\17Febrero20\Herencia_Animal\bin\Debug\Herencia_Animal.exe
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\17Febrero20\Herencia_Animal\bin\Debug\Herencia_Animal.pdb
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\17Febrero20\Herencia_Animal\obj\Debug\Herencia_Animal.csprojAssemblyReference.cache
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\17Febrero20\Herencia_Animal\obj\Debug\Herencia_Animal.Form1.resources
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\17Febrero20\Herencia_Animal\obj\Debug\Herencia_Animal.Properties.Resources.resources
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\17Febrero20\Herencia_Animal\obj\Debug\Herencia_Animal.csproj.GenerateResource.cache
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\17Febrero20\Herencia_Animal\obj\Debug\Herencia_Animal.exe
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\17Febrero20\Herencia_Animal\obj\Debug\Herencia_Animal.pdb
