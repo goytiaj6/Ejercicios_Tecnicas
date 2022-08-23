@@ -1,0 +1,20 @@
+C:\Users\jorge\Music\Colas3.1\Colas3.1\bin\Debug\Colas3.1.exe.config
+C:\Users\jorge\Music\Colas3.1\Colas3.1\bin\Debug\Colas3.1.exe
+C:\Users\jorge\Music\Colas3.1\Colas3.1\bin\Debug\Colas3.1.pdb
+C:\Users\jorge\Music\Colas3.1\Colas3.1\obj\Debug\Colas3.1.csprojAssemblyReference.cache
+C:\Users\jorge\Music\Colas3.1\Colas3.1\obj\Debug\Colas3._1.Form1.resources
+C:\Users\jorge\Music\Colas3.1\Colas3.1\obj\Debug\Colas3._1.Properties.Resources.resources
+C:\Users\jorge\Music\Colas3.1\Colas3.1\obj\Debug\Colas3.1.csproj.GenerateResource.cache
+C:\Users\jorge\Music\Colas3.1\Colas3.1\obj\Debug\Colas3.1.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Music\Colas3.1\Colas3.1\obj\Debug\Colas3.1.exe
+C:\Users\jorge\Music\Colas3.1\Colas3.1\obj\Debug\Colas3.1.pdb
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\22Abril20\Colas\Colas3.1\bin\Debug\Colas3.1.exe.config
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\22Abril20\Colas\Colas3.1\bin\Debug\Colas3.1.exe
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\22Abril20\Colas\Colas3.1\bin\Debug\Colas3.1.pdb
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\22Abril20\Colas\Colas3.1\obj\Debug\Colas3.1.csprojAssemblyReference.cache
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\22Abril20\Colas\Colas3.1\obj\Debug\Colas3._1.Form1.resources
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\22Abril20\Colas\Colas3.1\obj\Debug\Colas3._1.Properties.Resources.resources
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\22Abril20\Colas\Colas3.1\obj\Debug\Colas3.1.csproj.GenerateResource.cache
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\22Abril20\Colas\Colas3.1\obj\Debug\Colas3.1.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\22Abril20\Colas\Colas3.1\obj\Debug\Colas3.1.exe
+C:\Users\jorge\Dropbox\Goytia González Jorge Hadamard\22Abril20\Colas\Colas3.1\obj\Debug\Colas3.1.pdb

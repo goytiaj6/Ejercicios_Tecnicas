@@ -1,0 +1,10 @@
+C:\Users\jorge\Music\Listas1.1\Listas1.1\bin\Debug\Listas1.1.exe.config
+C:\Users\jorge\Music\Listas1.1\Listas1.1\bin\Debug\Listas1.1.exe
+C:\Users\jorge\Music\Listas1.1\Listas1.1\bin\Debug\Listas1.1.pdb
+C:\Users\jorge\Music\Listas1.1\Listas1.1\obj\Debug\Listas1.1.csprojAssemblyReference.cache
+C:\Users\jorge\Music\Listas1.1\Listas1.1\obj\Debug\Listas1._1.Properties.Resources.resources
+C:\Users\jorge\Music\Listas1.1\Listas1.1\obj\Debug\Listas1.1.csproj.GenerateResource.cache
+C:\Users\jorge\Music\Listas1.1\Listas1.1\obj\Debug\Listas1.1.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Music\Listas1.1\Listas1.1\obj\Debug\Listas1.1.exe
+C:\Users\jorge\Music\Listas1.1\Listas1.1\obj\Debug\Listas1.1.pdb
+C:\Users\jorge\Music\Listas1.1\Listas1.1\obj\Debug\Listas1._1.Form11.resources
