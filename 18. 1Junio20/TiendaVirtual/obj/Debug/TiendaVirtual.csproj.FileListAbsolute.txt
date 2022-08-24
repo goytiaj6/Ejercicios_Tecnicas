@@ -1,0 +1,16 @@
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\bin\Debug\TiendaVirtual.exe.config
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\bin\Debug\TiendaVirtual.exe
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\bin\Debug\TiendaVirtual.pdb
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.csprojAssemblyReference.cache
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.Properties.Resources.resources
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.csproj.GenerateResource.cache
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.exe
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.pdb
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.PaginaPrincipal.resources
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.Consolas.resources
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.Audífonos.resources
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.Teléfonos.resources
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.Alambricos.resources
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.Inalambricos.resources
+C:\Users\jorge\Music\1Junio20\TiendaVirtual\obj\Debug\TiendaVirtual.CancelarPedidos.resources
