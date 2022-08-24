@@ -1,0 +1,10 @@
+C:\Users\jorge\Music\29Abril20\CalculoFactorial\obj\Debug\CalculoFactorial.csprojAssemblyReference.cache
+C:\Users\jorge\Music\29Abril20\CalculoFactorial\obj\Debug\CalculoFactorial.Form1.resources
+C:\Users\jorge\Music\29Abril20\CalculoFactorial\obj\Debug\CalculoFactorial.Properties.Resources.resources
+C:\Users\jorge\Music\29Abril20\CalculoFactorial\obj\Debug\CalculoFactorial.csproj.GenerateResource.cache
+C:\Users\jorge\Music\29Abril20\CalculoFactorial\obj\Debug\CalculoFactorial.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Music\29Abril20\CalculoFactorial\bin\Debug\CalculoFactorial.exe.config
+C:\Users\jorge\Music\29Abril20\CalculoFactorial\bin\Debug\CalculoFactorial.exe
+C:\Users\jorge\Music\29Abril20\CalculoFactorial\bin\Debug\CalculoFactorial.pdb
+C:\Users\jorge\Music\29Abril20\CalculoFactorial\obj\Debug\CalculoFactorial.exe
+C:\Users\jorge\Music\29Abril20\CalculoFactorial\obj\Debug\CalculoFactorial.pdb
